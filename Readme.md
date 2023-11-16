@@ -26,5 +26,3 @@ Extra Pages:
 2. Extra Analysis: Provides additional insights through charts including a visual representation of the information in #3 of input/output and a charts of the top 30 phrases in positive and negative reviews as determined by "polarity score" (more info on technical details later).
 3. About the Developer: Contact info
 
-Technical Details:
-(to be added later)
